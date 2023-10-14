@@ -6,7 +6,7 @@ using UnityEngine;
 public class MoveLeft : MonoBehaviour
 {
     //variables
-    private float speed = 10.0f;
+    private float speed = 17.5f;
 
     private PlayerController playerControllerScript;
 
